@@ -1,0 +1,6 @@
+*Admin sales/RA Sales (problem in getting Id)
+**RA expenses + FO expenses - pie chart
+*File chooser or upload as goal of any user (problem in opening image file
+**get salary as expenses in pie chart
+
+
